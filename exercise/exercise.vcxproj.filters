@@ -13,5 +13,24 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\leetcode">
+      <UniqueIdentifier>{914d479e-e891-423a-80c6-7cafde64fba2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="leetcode211.cc">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode034.cc">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcoe493.cc">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
