@@ -29,7 +29,16 @@
     <ClCompile Include="leetcode034.cc">
       <Filter>源文件\leetcode</Filter>
     </ClCompile>
-    <ClCompile Include="leetcoe493.cc">
+    <ClCompile Include="leetcode493.cc">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode055.cc">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode221.cc">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode208.cc">
       <Filter>源文件\leetcode</Filter>
     </ClCompile>
   </ItemGroup>

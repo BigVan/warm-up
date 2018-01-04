@@ -42,9 +42,9 @@ private:
 	}
 };
 
-int main() {
-	Solution obj;
-	vector<int> nums{ 2,4,3,5,1 };
-	cout << obj.reversePairs(nums);
-	system("pause");
-}	
+//int main() {
+//	Solution obj;
+//	vector<int> nums{ 2,4,3,5,1 };
+//	cout << obj.reversePairs(nums);
+//	system("pause");
+//}	
