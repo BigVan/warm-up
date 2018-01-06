@@ -1,5 +1,6 @@
 #include "common.h"
 
+
 class Trie {
 public:
 	/** Initialize your data structure here. */
@@ -16,7 +17,7 @@ public:
 			int idx = ch - 'a';
 			if (p->subNode[idx] == nullptr) {
 				TrieNode *q = new TrieNode();
-				p->subNode[idx] = q;				
+				p->subNode[idx] = q;
 			}
 			p = p->subNode[idx];
 			last = p;
@@ -33,7 +34,7 @@ public:
 			int idx = ch - 'a';
 			if (p->subNode[idx] == nullptr) {
 				return false;
-			}			
+			}
 			p = p->subNode[idx];
 			last = p;
 		}
@@ -60,10 +61,9 @@ private:
 		TrieNode *subNode[26]{};
 	} *root;
 };
-
-int main() {
-
-	Trie obj;
-	obj.insert("abc");
-	obj.search
-}
+//int main() {
+//
+//	Trie obj;
+//	obj.insert("abc");
+//	obj.search("a");
+//}

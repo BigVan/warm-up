@@ -18,28 +18,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="common.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="leetcode211.cc">
-      <Filter>源文件\leetcode</Filter>
-    </ClCompile>
     <ClCompile Include="leetcode034.cc">
-      <Filter>源文件\leetcode</Filter>
-    </ClCompile>
-    <ClCompile Include="leetcode493.cc">
       <Filter>源文件\leetcode</Filter>
     </ClCompile>
     <ClCompile Include="leetcode055.cc">
       <Filter>源文件\leetcode</Filter>
     </ClCompile>
-    <ClCompile Include="leetcode221.cc">
+    <ClCompile Include="leetcode134.cc">
       <Filter>源文件\leetcode</Filter>
     </ClCompile>
     <ClCompile Include="leetcode208.cc">
       <Filter>源文件\leetcode</Filter>
     </ClCompile>
+    <ClCompile Include="leetcode211.cc">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode221.cc">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode493.cc">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode691.cc">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

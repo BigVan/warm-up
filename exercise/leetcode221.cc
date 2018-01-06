@@ -35,6 +35,7 @@ public:
 		return ans;
 	}
 
+
 private:
 	int n, m;
 	vector<vector<int>> sum;
@@ -43,10 +44,10 @@ private:
 		return sum[x][y];
 	}
 };
-
-int main() {
-
-	Solution obj;
-	vector<vector<char>> matrix{ {"1", "0", "1", "0", "0"}, { "1", "0", "1", "1", "1"}, { "1", "1", "1", "1", "1" }, { "1", "0", "0", "1", "0" } };
-
-}
+//
+//int main() {
+//
+//	Solution obj;
+////	vector<vector<char>> matrix{ {"1", "0", "1", "0", "0"}, { "1", "0", "1", "1", "1"}, { "1", "1", "1", "1", "1" }, { "1", "0", "0", "1", "0" } };
+//
+//}
