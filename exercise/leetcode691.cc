@@ -65,11 +65,11 @@ private:
 	//unordered_map<int, bool> hash;
 };
 
-int main() {
-	//vector<string> s{ "final","figure","danger","fish","some","product","son","seed","crease","rail","even","death","end","sit","live","behind","start","enough","much","between","test","is","happy","we","north","complete","month","reach","excite","stay","job","fell","letter","noun","seat","exact","than","ago","protect","kept","this","plain","flow","face","bird","sand","rock","roll","root","fact" };
-	vector<string> s{ "with", "example", "science" };
-	//"thehat"
-	cout << Solution().minStickers(s, "thehat") << endl;
-	system("pause");
-	return 0;
-}
+//int main() {
+//	//vector<string> s{ "final","figure","danger","fish","some","product","son","seed","crease","rail","even","death","end","sit","live","behind","start","enough","much","between","test","is","happy","we","north","complete","month","reach","excite","stay","job","fell","letter","noun","seat","exact","than","ago","protect","kept","this","plain","flow","face","bird","sand","rock","roll","root","fact" };
+//	vector<string> s{ "with", "example", "science" };
+//	//"thehat"
+//	cout << Solution().minStickers(s, "thehat") << endl;
+//	system("pause");
+//	return 0;
+//}
