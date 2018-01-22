@@ -34,9 +34,9 @@ public:
 		return f[n][m];
 	}
 };
-
-int main() {
-	cout << Solution().isMatch("1", "*?*") << endl;
-	system("pause");
-	return 0;
-}
+//
+//int main() {
+//	cout << Solution().isMatch("1", "*?*") << endl;
+//	system("pause");
+//	return 0;
+//}
